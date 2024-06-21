@@ -3,8 +3,8 @@
 
 RL アルゴリズム: [Dreamer](https://arxiv.org/abs/1912.01603)
 
-
-現状の性能
+## 現状の性能
+行動指示用プロンプト: "a humanoid robot kneeling"
 
 https://github.com/twin1shun/VLM-Dreamer/assets/128522258/0c75e56b-a075-4c2d-9e10-df01d53e589d
 
